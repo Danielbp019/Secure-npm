@@ -1,4 +1,4 @@
-# Automaton Shell - Automatizar reinstalación
+# Automatron Shell - Automatizar reinstalación
 
 Script de PowerShell para aplicar configuraciones de seguridad recomendadas en `npm` y usar Winget con ajustes personales mediante un menú simple en consola.
 
@@ -27,7 +27,7 @@ El menú permite:
 # Estructura del proyecto
 
 ```text
-AutomatonShell/
+AutomatronShell/
 │
 ├── menu.ps1
 └── data/
